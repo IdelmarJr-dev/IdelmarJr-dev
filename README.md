@@ -23,7 +23,7 @@
 </p>
 
 ### 🚀 Projetos em Destaque / Featured Projects
-* **[DentalClinic](https://front-end-clinical.vercel.app/login)**: Sistema completo de gestão para clínicas odontológicas — agenda, prontuários, financeiro, funcionários e lembretes automáticos via WhatsApp. Back-end em Node.js/Express + Supabase (Postgres) e front-end em React/TypeScript. Desenvolvido para a disciplina de Extensão Curricular I do IFPI. *(código privado — [confira o repositório de demonstração](https://front-end-clinical.vercel.app/login))*
+* **[DentalClinic](https://github.com/IdelmarJr-dev/Clinical-System)**: Sistema completo de gestão para clínicas odontológicas — agenda, prontuários, financeiro, funcionários e lembretes automáticos via WhatsApp. Back-end em Node.js/Express + Supabase (Postgres) e front-end em React/TypeScript. Desenvolvido para a disciplina de Extensão Curricular I do IFPI. *(código privado — [confira o repositório de demonstração](https://front-end-clinical.vercel.app/login))*
 * **[Sistema de Avaliação Online](https://github.com/IdelmarJr-dev/Sistema-de-Avalia-o-Online)**: Aplicação voltada para gestão de avaliações acadêmicas.
 * **[DAO Biblioteca](https://github.com/IdelmarJr-dev/DAO_Biblioteca)**: Sistema de gestão de empréstimos e multas utilizando padrões de persistência robustos.
 * **[LocalIFPI](https://github.com/NovaesThiago/locaLIFPI-frontend)**: Mapa interativo do campus desenvolvido para otimizar a navegação acadêmica.
