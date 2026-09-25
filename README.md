@@ -23,6 +23,7 @@
 </p>
 
 ### 🚀 Projetos em Destaque / Featured Projects
+* **[IDE Web](https://github.com/IdelmarJr-dev/ide-web-plataforma)**: IDE web para ensino de Banco de Dados, desenvolvida como TCC no IFPI — o aluno faz modelagem conceitual (notação de Chen) e lógica, com conversão assistida entre elas, e escreve SQL real num sandbox isolado por aluno; o professor cria exercícios com gabarito, corrige e acompanha a turma em um painel. Back-end em Node.js/Express + Prisma + PostgreSQL (Supabase) e front-end em React/TypeScript com Monaco e React Flow. *(open source, licença MIT)*
 * **[DentalClinic](https://github.com/IdelmarJr-dev/Clinical-System)**: Sistema completo de gestão para clínicas odontológicas — agenda, prontuários, financeiro, funcionários e lembretes automáticos via WhatsApp. Back-end em Node.js/Express + Supabase (Postgres) e front-end em React/TypeScript. Desenvolvido para a disciplina de Extensão Curricular I do IFPI. *(código privado — [confira o repositório de demonstração](https://front-end-clinical.vercel.app/login))*
 * **[Sistema de Avaliação Online](https://github.com/IdelmarJr-dev/Sistema-de-Avalia-o-Online)**: Aplicação voltada para gestão de avaliações acadêmicas.
 * **[DAO Biblioteca](https://github.com/IdelmarJr-dev/DAO_Biblioteca)**: Sistema de gestão de empréstimos e multas utilizando padrões de persistência robustos.
