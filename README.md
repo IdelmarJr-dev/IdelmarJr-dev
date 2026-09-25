@@ -30,7 +30,7 @@
 * **[LocalIFPI](https://github.com/NovaesThiago/locaLIFPI-frontend)**: Mapa interativo do campus desenvolvido para otimizar a navegação acadêmica.
 
 ### 🎓 Formação Complementar / Extra Courses
-- **Formação Backend TypeScript - Alura**: Especialização focada em Node.js, APIs REST, segurança e boas práticas de desenvolvimento. *(atualize o link do curso aqui — não localizei a URL exata da nova formação)*
+- **Formação Backend TypeScript - Alura**: Especialização focada em Node.js, APIs REST, segurança e boas práticas de desenvolvimento. **
 
 ### 📫 Contato / Contact
 - [LinkedIn](https://linkedin.com/in/idelmar-junior-59a750325)
