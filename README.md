@@ -15,7 +15,7 @@
 ### 💼 Atualmente / Currently
 **Desenvolvedor Full Stack na ISESMT** (nov/2026 – atual), empresa de software para Saúde e Segurança do Trabalho. Mais de 130 pull requests em 9 sistemas da empresa, no front e no back:
 - **Gerencia SST** (Next.js + Prisma + PostgreSQL): eventos do eSocial, PGR e inventário de riscos, emissão e assinatura digital de certificados, agendamento por link público, convite de usuários e Central de Ajuda.
-- **ISESMT Pay** (Next.js + Prisma): checkout embutido e operação multiloja com Pagar.me por loja e chaves criptografadas.
+- **ISESMT Checkout** (Next.js + Prisma): checkout embutido e operação multiloja com Pagar.me por loja e chaves criptografadas.
 - **Plataforma de Treinamentos** (Django REST + Celery / Next.js): matrículas, provas, cupons e financeiro das escolas.
 - **Avalia NR-01 e NR-17** (React + Vite / Express): campanhas, canal de denúncia e API de integração com o Gerencia SST.
 - **Valida SST e Backoffice** (Next.js, React, Express): assinatura de PDFs, ações em lote e busca.
